@@ -8,6 +8,7 @@ The **Daily Login Streak with Token Rewards** contract incentivizes users to log
 
 ## Contract Address
 0xd8b934580fcE35a11B58C6D73aDeE468a2833fa8
+![image](https://github.com/user-attachments/assets/7b55905e-7aca-45e6-80e6-993638330bbe)
 
 ## Project Vision
 The vision of this project is to create a simple, token-based engagement model that encourages regular user interaction through a login streak system. It is ideal for applications like gaming, content platforms, or decentralized social networks, where user engagement is key to success. The rewards system helps increase retention and incentivizes users to return daily to maintain their streaks.
